@@ -8,21 +8,21 @@ The app will help manage data about students and mentors and offer quick insight
 
 ## The Entities
 
-### The main entities for this application will be:
-students
-cohorts
-assignments
-assignment_submissions
-teachers
-assistance_requests
+### Main Entities
+- students
+- cohorts
+- assignments
+- assignment_submissions
+- teachers
+- assistance_requests
 
-#### A cohort will have the following attributes:
+#### Cohorts Attributes
 - id: A unique identifier
 - name: The name of the cohort
 - start_date: The cohorts' start date
 - end_date: The cohorts' end date
 
-#### A student will have the following attributes:
+#### Students Attributes
 - id: A unique identifier
 - name: The full name of the student
 - email: The students' email address
