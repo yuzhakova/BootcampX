@@ -2,7 +2,8 @@
 This is a Lighthouse Labs assignment to practice SQL (PostgreSQL).
 The app will help manage data about students and mentors and offer quick insight into data, such as assignment completion and the effectiveness of assistance requests.
 
-Entity Relation Diagram (ERD)
+## Entity Relation Diagram (ERD)
+
 !["entity_relation-diagram"](https://github.com/yuzhakova/BootcampX/blob/master/docs/erd.png)
 
 ## The Entities
