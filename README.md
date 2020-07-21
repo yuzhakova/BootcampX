@@ -4,7 +4,7 @@ The app will help manage data about students and mentors and offer quick insight
 
 ## Entity Relation Diagram (ERD)
 
-!["entity_relation-diagram"](https://github.com/yuzhakova/BootcampX/blob/master/docs/Entity%20Relation%20Diagram%20(ERD).png)
+!["entity_relation-diagram"](https://github.com/yuzhakova/BootcampX/blob/master/docs/entity_relation_dagram_(ERD).png)
 
 ## The Entities
 
